@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998334798217",
+    "project_id": "chat-effa2",
+    "storage_bucket": "chat-effa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998334798217:android:0dc2388766c93171166958",
+        "android_client_info": {
+          "package_name": "uz.umarov.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998334798217-c5091m0fef19lpvb2p7l9cucuv05uu99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-0D2edllXKzHEzoLQysmBL96xRm3BXPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998334798217-c5091m0fef19lpvb2p7l9cucuv05uu99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
